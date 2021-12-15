@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/home/etssoft/web/demo2.ets-demos.com/public_html/furnituredev/adminp9qcur" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="d844ad9202d0de8442498775ba6ef819">
+        <source>Review(s)</source>
+        <target>Review(s)</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="050a493969d909496cace9cae0fb0ca7">
+        <source>No reviews</source>
+        <target>No reviews</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
