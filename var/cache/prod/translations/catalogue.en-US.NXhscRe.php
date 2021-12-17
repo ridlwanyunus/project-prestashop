@@ -9564,11 +9564,6 @@ Best regards,',
     'and' => 'and',
     'Approximate date of delivery is between %1$s and %2$s' => 'Approximate date of delivery is between %1$s and %2$s',
   ),
-  'en-US' => 
-  array (
-    'Review(s)' => 'Review(s)',
-    'No reviews' => 'No reviews',
-  ),
 ));
 
 $catalogueEn = new MessageCatalogue('en', array (

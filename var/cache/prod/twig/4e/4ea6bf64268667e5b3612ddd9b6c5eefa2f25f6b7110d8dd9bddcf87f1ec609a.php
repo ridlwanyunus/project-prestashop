@@ -11,7 +11,7 @@ use Twig\Sandbox\SecurityNotAllowedFunctionError;
 use Twig\Source;
 use Twig\Template;
 
-/* @PrestaShop/Admin/Helpers/bootstrap_popup.html.twig */
+/* PrestaShopBundle:Admin/Helpers:bootstrap_popup.html.twig */
 class __TwigTemplate_4e9c8c327f702e8ddc419573ba475f57c85b0603437f9a2bc5ae067eee625e09 extends \Twig\Template
 {
     public function __construct(Environment $env)
@@ -204,7 +204,7 @@ $context["action"], "type", [], "any", true, true) && ($this->getAttribute($cont
 
     public function getTemplateName()
     {
-        return "@PrestaShop/Admin/Helpers/bootstrap_popup.html.twig";
+        return "PrestaShopBundle:Admin/Helpers:bootstrap_popup.html.twig";
     }
 
     public function isTraitable()
@@ -227,6 +227,6 @@ $context["action"], "type", [], "any", true, true) && ($this->getAttribute($cont
 
     public function getSourceContext()
     {
-        return new Source("", "@PrestaShop/Admin/Helpers/bootstrap_popup.html.twig", "/var/www/html/prestashop/src/PrestaShopBundle/Resources/views/Admin/Helpers/bootstrap_popup.html.twig");
+        return new Source("", "PrestaShopBundle:Admin/Helpers:bootstrap_popup.html.twig", "/var/www/html/prestashop/src/PrestaShopBundle/Resources/views/Admin/Helpers/bootstrap_popup.html.twig");
     }
 }
